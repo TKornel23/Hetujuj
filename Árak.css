@@ -68,3 +68,30 @@
     width: auto;
   }
 }
+
+.egész{
+  text-align: justify;
+  justify-content: center;
+  margin: auto;
+  width: 60%;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+.vége{
+  font-style: italic;
+}
+
+h4{
+  font-weight: 600;
+}
+.vendeg{
+  font-weight: 500;
+}
+
+li {
+  line-height: 2;
+}
+
+p {
+  line-height: 1.6;
+}
