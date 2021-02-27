@@ -14,6 +14,33 @@
   margin: -680px auto 50px 0;
 }
 
+.egész{
+  text-align: justify;
+  justify-content: center;
+  margin: auto;
+  width: 60%;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+.vége{
+  font-style: italic;
+}
+
+h4{
+  font-weight: 600;
+}
+.vendeg{
+  font-weight: 500;
+}
+
+li {
+  line-height: 2;
+}
+
+p {
+  line-height: 1.6;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     width: 700px;
@@ -69,29 +96,4 @@
   }
 }
 
-.egész{
-  text-align: justify;
-  justify-content: center;
-  margin: auto;
-  width: 60%;
-  font-family: Georgia, 'Times New Roman', Times, serif !important;
-}
 
-.vége{
-  font-style: italic;
-}
-
-h4{
-  font-weight: 600;
-}
-.vendeg{
-  font-weight: 500;
-}
-
-li {
-  line-height: 2;
-}
-
-p {
-  line-height: 1.6;
-}
